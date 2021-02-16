@@ -1,7 +1,7 @@
 /* Global Variables */
 // openweather url address
 const baseURL = "http://api.openweathermap.org/data/2.5/weather?zip=";
-const apiKey = "ba410cb8ee13d8bf144278b5ae2904e2";
+const apiKey = "";
 //api.openweathermap.org/data/2.5/weather?zip={zip code},{country code}&appid={API key}
 
 const postData = async (url = "", data = {}) => {
