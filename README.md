@@ -14,7 +14,7 @@ The application:
 
 ## **Getting Started**
 
-## Getting Setup
+### Getting Setup
 
 #### Installing Node and NPM
 
