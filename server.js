@@ -28,7 +28,6 @@ const server = app.listen(port, () => {
 
 app.get("/all", (req, res) => {
   res.send(projectData);
-  console.log(projectData);
 });
 
 app.post("/add", (req, res) => {
